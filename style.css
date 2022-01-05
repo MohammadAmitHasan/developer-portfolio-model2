@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.owner-name{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    font-weight: 300;
+    color: rgb(194, 32, 153);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.owner-title{
+    font-size: 20px;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+    color: rgb(43, 18, 134);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+.top-section{
+    padding: 5px;
+    margin: 30px auto 30px;
+    width: 480px;
+    height: 480px;
+    box-shadow: 10px 10px 30px rgb(39, 2, 36);
+}
+.item{
+    width: 50%;
+}
+.top-section img{
+   width: 350px;
+    display: block;
+    margin: 30px auto 0;
+}
